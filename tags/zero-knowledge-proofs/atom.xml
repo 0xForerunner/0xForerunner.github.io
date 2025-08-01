@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Eric Woolsey (0xForerunner) - Zero Knowledge Proofs</title>
+    <subtitle>Eric Woolsey (0xForerunner)</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://blog.woolsey.dev/tags/zero-knowledge-proofs/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://blog.woolsey.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-12T00:00:00+00:00</updated>
+    <id>https://blog.woolsey.dev/tags/zero-knowledge-proofs/atom.xml</id>
+    <entry xml:lang="en">
+        <title>cascading Merkle Tree</title>
+        <published>2024-04-12T00:00:00+00:00</published>
+        <updated>2024-04-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Eric Woolsey
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.woolsey.dev/contributions/cascading-merkle-tree/"/>
+        <id>https://blog.woolsey.dev/contributions/cascading-merkle-tree/</id>
+        
+        <content type="html" xml:base="https://blog.woolsey.dev/contributions/cascading-merkle-tree/"></content>
+        
+    </entry>
+</feed>
