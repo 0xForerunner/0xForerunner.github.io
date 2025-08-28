@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Eric Woolsey (0xForerunner) - Data Structures</title>
+      <link>https://blog.woolsey.dev</link>
+      <description>Eric Woolsey (0xForerunner)</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://blog.woolsey.dev/tags/data-structures/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>cascading Merkle Tree</title>
+          <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+          <author>Eric Woolsey</author>
+          <link>https://blog.woolsey.dev/contributions/cascading-merkle-tree/</link>
+          <guid>https://blog.woolsey.dev/contributions/cascading-merkle-tree/</guid>
+          <description xml:base="https://blog.woolsey.dev/contributions/cascading-merkle-tree/"></description>
+      </item>
+    </channel>
+</rss>
