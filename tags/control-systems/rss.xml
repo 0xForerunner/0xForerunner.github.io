@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Eric Woolsey (0xForerunner) - Control Systems</title>
+      <link>https://blog.woolsey.dev</link>
+      <description>Eric Woolsey (0xForerunner)</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://blog.woolsey.dev/tags/control-systems/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Neptune Money Market Whitepaper</title>
+          <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+          <author>Eric Woolsey</author>
+          <link>https://blog.woolsey.dev/contributions/neptune-whitepaper/</link>
+          <guid>https://blog.woolsey.dev/contributions/neptune-whitepaper/</guid>
+          <description xml:base="https://blog.woolsey.dev/contributions/neptune-whitepaper/"></description>
+      </item>
+    </channel>
+</rss>
